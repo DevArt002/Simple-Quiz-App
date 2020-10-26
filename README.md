@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# About
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Simple quiz application using React.js + Typescript + Style-components.
+
+https://github.com/DevArt002/Simple-Quiz-App/blob/master/src/assets/images/simple-quiz.gif
 
 ## Available Scripts
 
