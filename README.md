@@ -2,7 +2,7 @@
 
 Simple quiz application using React.js + Typescript + Style-components.
 
-https://github.com/DevArt002/Simple-Quiz-App/blob/master/src/assets/images/simple-quiz.gif
+![Banner](https://github.com/DevArt002/Simple-Quiz-App/blob/master/src/assets/images/simple-quiz.gif)
 
 ## Available Scripts
 
